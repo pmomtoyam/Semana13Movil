@@ -1,0 +1,15 @@
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\bin\Debug\netstandard2.0\Semana13Movil.deps.json
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\bin\Debug\netstandard2.0\Semana13Movil.dll
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\bin\Debug\netstandard2.0\ref\Semana13Movil.dll
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\bin\Debug\netstandard2.0\Semana13Movil.pdb
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.csproj.AssemblyReference.cache
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.AssemblyInfoInputs.cache
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.AssemblyInfo.cs
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.csproj.CoreCompileInputs.cache
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.dll
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\refint\Semana13Movil.dll
+C:\RepositoriosGitHub\Semana13Movil\Semana13Movil\Semana13Movil\obj\Debug\netstandard2.0\Semana13Movil.pdb

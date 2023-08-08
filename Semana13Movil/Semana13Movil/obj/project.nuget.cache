@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JF0BiwPp0XmicMzlcNEB2DxpzS9b6jPJ8OsiuzXQcZK5T40rzeXmYOudhhYYBGRmbas77VQYYQotgG5jWeSxSA==",
+  "success": true,
+  "projectFilePath": "C:\\RepositoriosGitHub\\Semana13Movil\\Semana13Movil\\Semana13Movil\\Semana13Movil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}

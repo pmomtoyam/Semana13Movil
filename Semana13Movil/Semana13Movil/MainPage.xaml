@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Semana13Movil.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Status" x:Name="lblStatus"/>
+        <Button Text="Validar Red" x:Name="btnNet"/>
+
+        <Entry x:Name="EntryName" Placeholder="Nombre" />
+        <Entry x:Name="EntryLatitude" Text="9.941212" Keyboard="Numeric"/>
+        <Entry x:Name="EntryLongitud" Text="-84.0780812" Keyboard="Numeric" />
+        <Button Text="Abrir Coordenadas" x:Name="btnMap"/>
+
+        <Entry x:Name="EntryEmail" Text="" Keyboard="Email" />
+        <Entry x:Name="EntrySubject" Text="" />
+        <Button Text="Enviar" x:Name="btnMail"/>
+
+        <Entry x:Name="EntryText" Placeholder="Ingrese el texto"/>
+        <Button Text="Hablar" x:Name="ButtonHablar" />
+        <Slider MinimumTrackColor="Black" MaximumTrackColor="DarkSlateGray" ThumbColor="DarkSlateGray"
+                Minimum="0" Maximum="1" Value="1" x:Name="SliderVolume"/>
+
+    </StackLayout>
+
+</ContentPage>
